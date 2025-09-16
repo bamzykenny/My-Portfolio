@@ -44,21 +44,21 @@ const Projects = () => {
     },
   
     {
-      title: 'Cybersecurity Learning Platform',
-      description: 'Educational platform for cybersecurity courses with interactive labs, progress tracking, and certification system.',
+      title: 'Artificial Intelligence Text Convert Platform',
+      description: 'A web platform that uses AI to convert, format, and enhance text, featuring real-time processing and user-friendly tools.',
       image: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=500&h=300&fit=crop',
       technologies: ['Next.js', 'PostgreSQL', 'Prisma', 'AWS'],
       github: 'https://github.com/bamzykenny/',
-      live: 'https://bytitude.netlify.app/',
+      live: 'https://ai-convert-zeta.vercel.app/',
       featured: false
     },
       {
-      title: 'Task Management System',
-      description: 'Kanban-style task management with drag-and-drop, team collaboration, and progress tracking. Features dark mode and responsive design.',
+      title: 'Article website Reader with AI-generated content',
+      description: 'AI-powered platform that allows users to read, generate, and summarize articles with responsive design and a clean user interface.',
       image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=500&h=300&fit=crop',
       technologies: ['React', 'TypeScript', 'Tailwind', 'Firebase'],
       github: 'https://github.com/bamzykenny/',
-      live: 'https://github.com/bamzykenny/',
+      live: 'https://wiktok-articles.vercel.app/',
       featured: false
     },
     {
