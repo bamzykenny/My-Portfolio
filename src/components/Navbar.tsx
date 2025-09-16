@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Sun, Moon } from 'lucide-react';
+import logo from '../assets/logo.jpeg';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -61,9 +62,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <span className="text-2xl font-bold gradient-text curved-text">
-              K D
-            </span>
+  <img src={logo} alt="logo" className="w-10 h-10 object-cover rounded-full" />
           </div>
 
           {/* Desktop Navigation */}
