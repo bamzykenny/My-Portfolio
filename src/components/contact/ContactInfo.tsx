@@ -48,7 +48,7 @@ const ContactInfo = ({ isVisible }: ContactInfoProps) => {
     {
       icon: <MessageCircle className="w-6 h-6" />,
       label: 'WhatsApp',
-      href: 'https://wa.me/+234 07015455571',
+      href: 'https://wa.me/+23407015455571',
       color: 'hover:text-secondary'
     }
   ];
