@@ -95,7 +95,7 @@ const About = () => {
             <div className="card-interactive p-8">
               <h3 className="text-2xl font-bold mb-4 gradient-text">My Journey</h3>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Started my coding journey in 2019 with a curiosity about how websites work. 
+                Started my coding journey in 2021 with a curiosity about how websites work. 
                 What began as a hobby quickly became a passion, leading me to pursue computer science 
                 and specialize in full-stack web development.
               </p>

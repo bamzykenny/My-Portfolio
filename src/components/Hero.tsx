@@ -74,7 +74,7 @@ const Hero = () => {
                 </h2>
               </div>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto lg:mx-0 text-balance">
-                With 2+ years of experience and 50+ successful projects, I create exceptional web experiences 
+                With 3+ years of experience and 50+ successful projects, I create exceptional web experiences 
                 using modern technologies. I build scalable, performant applications that solve real-world problems.
               </p>
             </div>
